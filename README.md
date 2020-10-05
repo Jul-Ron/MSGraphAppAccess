@@ -1,6 +1,6 @@
 # Microsoft Graph Application Permissions Access Token
 
-This is a sample on how to use the Microsoft Graph SDK with Application Permissions and your own Authentication Provider. For more information, see my blog post [here](https://www.lee-ford.co.uk/connect-graph-api-sdk-app-permissions/).
+This is a sample on how to use the Microsoft Graph JavaScript SDK with Application Permissions and your own Authentication Provider. For more information, see my blog post [here](https://www.lee-ford.co.uk/connect-graph-api-sdk-app-permissions/).
 
 ## Instructions
 
